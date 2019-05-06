@@ -1,3 +1,3 @@
 # COP1801_Javascript
-# Project Title:
+Project Title:
 # SAFFRON RESTAURANT 
