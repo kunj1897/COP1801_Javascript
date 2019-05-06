@@ -11,3 +11,9 @@ Saffron resturant is a restaurant website which employs the use of HTML, CSS and
 5. In the address bar type:
 http:// followed by your server’s FQDN. 
 ### Usage:
+1. Follow the instruction of INSTALLATION section
+2. Open your browser: [URL](http://localhost/phpmyadmin/)
+### Credits:
+Kunj Patel
+### Licence 
+This repository is licensed under the [MIT license](MIT license).
