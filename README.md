@@ -16,4 +16,4 @@ http:// followed by your server’s FQDN.
 ### Credits:
 Kunj Patel
 ### Licence 
-This repository is licensed under the [MIT license](MIT license).
+This repository is licensed under the [MIT license](https://opensource.org/licenses/MIT).
