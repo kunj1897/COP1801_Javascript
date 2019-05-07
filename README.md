@@ -1,19 +1,19 @@
 # COP1801_Javascript
-### Project Title:
+### Project Title:-
 SAFFRON RESTAURANT 
-### Description:
+### Description:-
 Saffron resturant is a restaurant website which employs the use of HTML, CSS and PHP to build it. The website contains excellent navigation bar style with a menu page giving information about our best quality food.
-### Installation:
+### Installation:-
 1. Install a server on Azure 
 2. Create a Secure Tunnel 
 3. Open the Putty program and enter the server admin user name and password
 4. Open a browser 
 5. In the address bar type:
 http:// followed by your server’s FQDN. 
-### Usage:
+### Usage:-
 1. Follow the instruction of INSTALLATION section
 2. Open your browser: [URL](http://localhost/phpmyadmin/)
-### Credits:
+### Credits:-
 Kunj Patel
-### Licence 
+### Licence:- 
 This repository is licensed under the [MIT license](https://opensource.org/licenses/MIT).
